@@ -8,6 +8,10 @@
 
 ```yarn start```
 
+## start mock server
+
+```yarn run server```
+
 ### This repo contains react stuff (and potentially express things in the future)
 
 likely going to add
